@@ -1,0 +1,1 @@
+export const PX = 'px-6 md:px-10 lg:px-16'
